@@ -1,1 +1,2 @@
-# plinko-with-scores
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
